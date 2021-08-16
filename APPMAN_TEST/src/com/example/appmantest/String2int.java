@@ -15,8 +15,8 @@ public class String2int {
                 Text = Text + String2int2.charAt(i);
             }
         }
-        // Read user input
         System.out.println("Output: " + Text);  // Output Strin2Int input
+
     }
 
 }
